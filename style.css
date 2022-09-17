@@ -102,7 +102,7 @@ hr{
 }
 .l{
     font-family: monospace;
-    font-size: 0.8rem; 
+     
 }
 p{
     brandon-grotesque,HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
@@ -114,18 +114,4 @@ p{
     position: relative;
     bottom: 55px;  
 }
-a:visited {
-    color:  rgb(250, 123, 144);
-    background-color: transparent;
-    text-decoration: none;
-  }
-  a:hover {
-    color: red;
-    background-color: transparent;
-    text-decoration: underline;
-  }
-  a:active {
-    color: #45b29a;
-    background-color: transparent;
-    text-decoration: underline;
-  }
+
